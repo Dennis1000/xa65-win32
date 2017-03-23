@@ -1,4 +1,4 @@
-= xa-win32
+# xa-win32 #
 Win32 port of xa, a cross-assembler for the 6502 and 65816 CPUs (and
 derivatives). 
 xa is a small, fast, portable two-pass assembler that compiles
@@ -13,7 +13,8 @@ dxa disassembler included.
 
 Compiled with MinGW: A native Windows port of the GNU Compiler Collection (GCC), with freely distributable import libraries and header files for building native Windows applications; includes extensions to the MSVC runtime to support C99 functionality. All of MinGW's software will execute on the 64bit Windows platforms
 
-== Versions
+## Versions ##
+
 xa-2.3.7 
 dxa-0.1.3 
 gcc (GCC) 5.3.0

@@ -1,5 +1,5 @@
 # xa-win32 #
-Win32 port of xa, a cross-assembler for the 6502 and 65816 CPUs (and
+Win32 build of xa, a cross-assembler for the 6502 and 65816 CPUs (and
 derivatives). 
 xa is a small, fast, portable two-pass assembler that compiles
 under most ANSI C compilers. 
